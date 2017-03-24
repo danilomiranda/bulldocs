@@ -1,4 +1,4 @@
-# Documentação sjur
+# Easydoc
 
 Esta é uma aplicação web desenvolvida sobre
 [next.js](https://zeit.co/blog/next).
